@@ -45,3 +45,16 @@ Learn Python basics, including the following elements:
 8. A date in a program usually means both the calendar date and the time. Using a date as part of a backup file's name is a good way to indicate when a backup was made and when it needs to be made again. You can carry a specific logic when there's a certain date.
 9. By using the sys module, you can retrieve the command-line arguments and use them in your program. 
 
+### Module-3: Using Boolean Logic in Python
+
+1. Craft complex expressions that apply conditional and Boolean logic.
+2. Booleans are a common type in Python.Their value can only ever be one of two things: true or false. Boolean values is critical, because you need them to write conditional logic.
+3. Run code under various conditions by using if, else, and elif statements. Combine conditional logic and create more complex conditions by using and and or operators. 
+4. Another concept we cover in this module, mathematical operators. Python supports the common logic operators from math: equals, not equals, less than, less than or equal to, greater than, and greater than or equal to.
+Equals: **a == b**
+Not Equals: **a != b**
+Less than: **a < b**
+Less than or equal to: **a <= b**
+Greater than: **a > b**
+Greater than or equal to: **a >= b**
+
